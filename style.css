@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0 auto;
+    padding: 0;
+    background-image: linear-gradient(rgba(239, 233, 233, 0.278), rgba(236, 238, 244, 0.5)), url('images/pisit-heng-ci1F55HaVWQ-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+  .song {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .song {
+    margin: 20px auto;
+  }  
+
+  p {
+    font-size: 20px;
+    color:rgb(85, 75, 75);
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .header-title {
+    text-align: center;
+    background-color: rgba(51, 51, 51, 0.323);
+    color: #fff;
+    padding: 10px 0;
+  }  
+
+  .center-text {
+    text-align: center;
+  }
+  
+  .color-white {
+    color: #fff;
+  }
+  
+  .song {
+    margin: 20px 0;
+  }
+  
+  .video {
+    margin: 20px 0;
+  }
+  
+  .center-content {
+    text-align: center;
+  }
+
+  h3 {
+    font-size: 25px;
+    color:rgb(85, 75, 75);
+  }
+
+  @media (max-width: 600px) {
+    .video iframe {
+      width: 100%;
+    }
+  }
+  
+  @media all and (min-width: 768px) {
+    /* body */
+    body {
+    background-image: linear-gradient(rgba(239, 233, 233, 0.278), rgba(236, 238, 244, 0.5)), url('images/pisit-heng-ci1F55HaVWQ-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+  }
+  
