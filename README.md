@@ -40,7 +40,7 @@
 
 # 📖 Jesus loves me this I know!<a name="about-project"></a>
 
-**Jesus loves me this I know!** is a project about Jesus' great love for us. The project includes the famous children's song "Jesus loves me" 
+**Jesus loves me this I know!** is a project about Jesus' great love for us. The project includes the children's song "Jesus loves me" and This I know, song by Aaron Shust.
 
 <br>
 
@@ -134,7 +134,7 @@ Give a ⭐️ if you like this project!
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-I love you, HaShem (Abba) and Yeshua 💜 
+HaShem (Abba) and Yeshua, I love you! 💜 Thank you!
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
